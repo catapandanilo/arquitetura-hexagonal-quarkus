@@ -58,3 +58,9 @@ If you want to learn more about building native executables, please consult http
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+
+Links H2/Hexagonal
+- https://github.com/DaniloCaneschi/arquitetura-hexagonal
+- https://www.youtube.com/watch?v=1PMCPgRIqNE&ab_channel=DaniloCaneschi
+- https://github.com/CodeWithJuancho/Quarkus-H2
+- https://www.youtube.com/watch?v=Y5zJjcb_Tsc&ab_channel=CodeWithJuancho
